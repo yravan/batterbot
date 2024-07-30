@@ -1,6 +1,6 @@
 # BatterBot
 
-**Description:** Dec 2023
+### By Felix Huang, Yajvan Ravan, Stephen Hong
 
 ![Header Image](/assets/header.png)
 
