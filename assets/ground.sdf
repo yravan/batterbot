@@ -1,0 +1,22 @@
+<sdf version="1.6">
+    <world name="default">
+        <!-- Ground Box -->
+        <model name="ground_box">
+            <static>true</static>
+            <link name="link">
+                <!-- Specify the properties of the box here -->
+                <collision name="collision">
+                    <geometry>
+                        <box>
+                            <!-- Size of the box -->
+                            <size>100 100 1</size> <!-- Length, Width, Height -->
+                        </box>
+                    </geometry>
+                </collision>
+            </link>
+            <!-- Position of the box -->
+            <pose>0 0 -0.5 0 0 0</pose> <!-- X, Y, Z, Roll, Pitch, Yaw -->
+        </model>
+        <!-- You can add more boxes in a similar manner to represent different parts of the ground -->
+    </world>
+</sdf>
