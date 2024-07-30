@@ -8,7 +8,7 @@ We designed a robotic system to play baseball in **Drake** using trajectory opti
 
 Baseball is a task that contains two interesting manipulation paradigms: Pitching & Hitting. There is limited literature on **nonprehensile manipulation** for dynamic aerial objects. We approach this using planning techniques including **inverse kinematics** & **kinematic trajectory optimization**.
 
-This project was done for 6.4200 (Robotic Manipulation) & the code can be found [here](https://github.com/yravan/batterbot).
+This project was done for 6.4200 (Robotic Manipulation) & the code can be found [here](https://github.com/yravan/batterbot). The dependencies can be installed with Docker.
 
 ---
 
