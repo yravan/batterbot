@@ -27,7 +27,7 @@ This project was done for 6.4200 (Robotic Manipulation) & the code can be found 
 Some key results of our approach after testing are below:
 
 <div align="center">
-  <img src="/assets/64210/results.png" alt="Results" width="80%" style="border-radius: 8px;">
+  <img src="/assets/results.png" alt="Results" width="80%" style="border-radius: 8px;">
 </div>
 
 ---
